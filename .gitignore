@@ -3,7 +3,7 @@ testes/
 *.pkl
 *.zip
 *.csv
-*.pt
+#*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
